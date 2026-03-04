@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (si son pesados)
+data/raw/
+*.csv
+*.parquet
